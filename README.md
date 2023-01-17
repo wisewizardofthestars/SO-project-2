@@ -3,6 +3,6 @@
 
 (SO) project 2 implemented in C.
 
-This aspect of the project involves the implementation of a basic message broker.
+The second part of the project aims to create a simple message publishing and subscribing system, which stores messages in the TFS file system.
 
 Made by [@wisewizardofthestars](https://github.com/wisewizardofthestars) and [@mira-eanda](https://github.com/mira-eanda).
