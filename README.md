@@ -3,6 +3,6 @@
 
 (SO) project 1 implemented in C.
 
-This part of the project involves the development of a basic file system, called TFS.
+This part of the project involves the implementation of a message broker system that uses TFS to store the messages.
 
 Made by [@wisewizardofthestars](https://github.com/wisewizardofthestars) and [@mira-eanda](https://github.com/mira-eanda).
