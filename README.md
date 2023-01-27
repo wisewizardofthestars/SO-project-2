@@ -1,5 +1,8 @@
-# projeto-so-2022-23
+# SO - 2022/2023
+**Operating Systems class** 
 
-Código fornecido para o segundo exercício do projeto de Sistemas Operativos do ano letivo 2022-2023.
+(SO) project 1 implemented in C.
 
-Consultar o [enunciado do projeto](https://github.com/tecnico-so/enunciado-proj-so-2022-23).
+This part of the project involves the development of a basic file system, called TFS.
+
+Made by [@wisewizardofthestars](https://github.com/wisewizardofthestars) and [@mira-eanda](https://github.com/mira-eanda).
